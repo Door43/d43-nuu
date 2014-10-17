@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nuu:home|Door43 (nuu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nuu|d43-nuu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nuu/archive/master.zip|d43-nuu.zip]]
+
+**Recent Changes**
+{{changes>ns = nuu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nuu|Ethnologue data]]
+
